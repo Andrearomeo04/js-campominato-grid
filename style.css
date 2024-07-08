@@ -9,8 +9,12 @@ header {
     justify-content: flex-end;
     align-items: center;
     height: 80px;
-    background-color: lightgray;
+    background-color: paleturquoise;
     margin-bottom: 25px;
+}
+
+body {
+    background-color: bisque;
 }
 
 #start {
