@@ -15,6 +15,8 @@ btn.addEventListener('click', function () {
         currentsquare.addEventListener('click', function () {
             this.classList.toggle('clicked')
         })
+
+        currentsquare.innertext = i + 1
     }
 
 })
