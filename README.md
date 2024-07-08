@@ -16,7 +16,7 @@ soluzione
 9.assegno un evento click al bottone x
 7.eseguo un ciclo for di 100 iterazioni per creare una griglia 10x10 x
 8.dichiaro una variabile "currentsquare" a cui assegno la funzione x
-9.aggiungo un evento click al quadrato
+9.aggiungo un evento click al quadrato x
 10. aggiungo la classe clicked a cui aggiungo 2 metodi: "this" e "toggle"
 11.assegno a "currentsquare" un incremento + 1
 12.appendo il quadrato creato dentro la griglia
