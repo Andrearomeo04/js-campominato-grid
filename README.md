@@ -19,4 +19,4 @@ soluzione
 9.aggiungo un evento click al quadrato x
 10. aggiungo la classe clicked a cui aggiungo 2 metodi: "this" e "toggle" x
 11.assegno a "currentsquare" un incremento + 1 x
-12.appendo il quadrato creato dentro la griglia
+12.appendo il quadrato creato dentro la griglia x
