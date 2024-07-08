@@ -14,6 +14,7 @@ btn.addEventListener('click', function () {
 
         currentsquare.addEventListener('click', function () {
             this.classList.toggle('clicked')
+            console.log('hai selezionato la casella numero', i + 1, )
         })
 
         currentsquare.innerText = i + 1
